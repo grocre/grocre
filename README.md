@@ -19,9 +19,9 @@ I'm currently learning Elixir
 ### **My Github Stats** ###
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grocre)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grocre&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grocre&layout=compact&hide=jupyter%20Notebook,CSS)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grocre&layout=compact&hide=jupyter%20Notebook,CSS&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 ***
 
