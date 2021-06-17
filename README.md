@@ -6,22 +6,22 @@ I'm a 21 years old and a Computer Science student at Centro Federal de Educaçã
 
 ***
 
-I'm currently working on:
- * [Site do Ramo](https://github.com/WolfByte-CEFET-RJ/Site_do_Ramo)
- * [IA Bot](https://github.com/WolfByte-CEFET-RJ/IA-BOT)
+I'm currently working on
+[Site do Ramo](https://github.com/WolfByte-CEFET-RJ/Site_do_Ramo)
+and [IA Bot](https://github.com/WolfByte-CEFET-RJ/IA-BOT) projects
 
 
-I'm currently learning Elixir 
+I'm currently learning Elixir
 
 
 ***
 
 ### **My Github Stats** ###
 
-<div style="display: inline_block">
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grocre)](https://github.com/anuraghazra/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grocre&layout=compact&hide=jupyter%20Notebook,CSS)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grocre)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grocre&layout=compact&hide=jupyter%20Notebook,CSS)](https://github.com/anuraghazra/github-readme-stats)
 
 ***
 
