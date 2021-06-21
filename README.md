@@ -6,12 +6,12 @@ I'm a 21 years old Computer Science student at Centro Federal de Educação Cels
 
 ***
 
-I'm currently working on
+🔭 I'm currently working on
 [Site do Ramo](https://github.com/WolfByte-CEFET-RJ/Site_do_Ramo)
 and [IA Bot](https://github.com/WolfByte-CEFET-RJ/IA-BOT) projects
 
 
-I'm currently learning Elixir
+🌱 I'm currently learning Elixir
 
 
 ***
