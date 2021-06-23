@@ -1,6 +1,6 @@
  
 
-## **Hi there, my name is Gabriel.** ## 
+## **Hi, my name is Gabriel.** ## 
 
 I'm a 21 years old Computer Science student at Centro Federal de Educação Celson Suckow da Fonseca (CEFET-RJ) at Rio de Janeiro - Brazil.  
 
