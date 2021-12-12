@@ -9,8 +9,6 @@ I'm a 22 years old Computer Science student at Centro Federal de Educação Cels
 🔭 I'm currently working on
 [Site do Ramo](https://github.com/WolfByte-CEFET-RJ/Site_do_Ramo)
 
-🌱 I'm currently learning Elixir
-
 
 ***
 
