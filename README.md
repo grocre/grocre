@@ -4,14 +4,6 @@
 
 I'm a 22 years old Computer Science student at Centro Federal de Educação Celson Suckow da Fonseca (CEFET-RJ) at Rio de Janeiro - Brazil.  
 
-***
-
-🔭 I'm currently working on
-[Site do Ramo](https://github.com/WolfByte-CEFET-RJ/Site_do_Ramo)
-
-
-***
-
 ### **My Github Stats** ###
 
 
