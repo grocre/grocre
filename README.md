@@ -2,7 +2,7 @@
 
 ## **Hi, my name is Gabriel.** ## 
 
-I'm a 22 years old Computer Science student at Centro Federal de Educação Celson Suckow da Fonseca (CEFET-RJ) at Rio de Janeiro - Brazil.  
+I'm a 23 years old Computer Science student at Centro Federal de Educação Celson Suckow da Fonseca (CEFET-RJ) at Rio de Janeiro - Brazil.  
 
 ### **My Github Stats** ###
 
