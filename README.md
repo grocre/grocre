@@ -11,7 +11,7 @@ I realy enjoy programming in JavaScript/TypeScript, but i also love to try new t
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grocre&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grocre&layout=compact&hide=jupyter%20Notebook,CSS&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grocre&layout=compact&hide=jupyter%20Notebook,CSS,html&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 ***
 
