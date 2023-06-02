@@ -1,6 +1,9 @@
-<h1 style="border:none"> Hi </h1>
+<h1> Hi </h1>
 
-<h2 style="border:none">My name is Gabriel Camargo.</h2>
+<h2>
+  My name is Gabriel Camargo.
+</h2>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielr-camargo/)](https://www.linkedin.com/in/gabrielr-camargo/)
 [![Gmail Badge](https://img.shields.io/badge/grocre@gmail.com-000??style=flat-square&logo=Gmail&logoColor=white&link=mailto:grocre@gmail.com)](mailto:grocre@gmail.com)
 ***
