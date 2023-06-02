@@ -1,12 +1,6 @@
-<style>
-    #top-languages-container {
-        margin: 30px 0 0 0;
-    }
+<h1 style="border:none"> Hi </h1>
 
-</style>
-## **Hi**
-
-## **My name is Gabriel Camargo.** ##
+<h2 style="border:none">My name is Gabriel Camargo.</h2>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielr-camargo/)](https://www.linkedin.com/in/gabrielr-camargo/)
 [![Gmail Badge](https://img.shields.io/badge/grocre@gmail.com-000??style=flat-square&logo=Gmail&logoColor=white&link=mailto:grocre@gmail.com)](mailto:grocre@gmail.com)
 ***
@@ -16,7 +10,7 @@ I'm a 23 years old Computer Science Student at Centro Federal de Educação Cels
 I realy enjoy programming in JavaScript/TypeScript, but i also love to try new things. Actually, i've been learning golang.
 
 
-<div id="top-languages-container">
+<div  style="margin: 30px 0 0 0;">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grocre&hide=jupyter%20Notebook,CSS,html,SCSS&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
