@@ -6,7 +6,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielr-camargo/)](https://www.linkedin.com/in/gabrielr-camargo/)
 [![Gmail Badge](https://img.shields.io/badge/grocre@gmail.com-000??style=flat-square&logo=Gmail&logoColor=white&link=mailto:grocre@gmail.com)](mailto:grocre@gmail.com)
-***
 
 I'm a 23 years old Computer Science Student at Centro Federal de Educação Celson Suckow da Fonseca (CEFET-RJ) at Rio de Janeiro - Brazil.  
 
