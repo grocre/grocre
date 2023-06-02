@@ -14,7 +14,7 @@ I realy enjoy programming in JavaScript/TypeScript, but i also love to try new t
 
 <div  style="margin: 30px 0 0 0;">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grocre&hide=jupyter%20Notebook,CSS,html,SCSS&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grocre&hide=jupyter%20Notebook,CSS,html,SCSS&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
